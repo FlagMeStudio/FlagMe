@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FlagMe</string>
+
+    <string name="hint_userName">username</string>
+    <string name="hint_password">password</string>
+    <string name="loginButton">LOG IN</string>
+
+    <!-- certain login user -->
+    <string name="user_name">FlagMeStudio</string>
+    <string name="user_password">FlagMe</string>
+    
+    <string name="login_preference">com.example.flagme_login_preference</string>
+    <string name="login_status_preference">com.example.flagme_login_status_preference</string>
+</resources>
