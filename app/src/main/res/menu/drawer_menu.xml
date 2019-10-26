@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Overview"
+            android:icon="@drawable/flag"
+            android:title="Overview"
+            />
+        <item
+            android:id="@+id/Flags"
+            android:icon="@drawable/flag"
+            android:title="Flags"
+            />
+        <item
+            android:id="@+id/Profile"
+            android:icon="@drawable/flag"
+            android:title="Profile"
+            />
+        <item
+            android:id="@+id/Setting"
+            android:icon="@drawable/flag"
+            android:title="Setting"
+            />
+    </group>
+
+</menu>
